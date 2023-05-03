@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  height: 20%;
+}
+.square {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  background-color: red;
+}
+.btn {
+  width: 200px;
+  background-color: lightblue;
+  padding: 15px;
+  font-size: 28px;
+  color: azure;
+  border: none;
+  outline: none;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.btn:hover {
+  background-color: blue;
+}
+.hr {
+  border: 2px solid gray;
+}
